@@ -13,7 +13,7 @@ From the project folder, run:
 
 ```bash
 python3 -m pip install -r requirements.txt
-python3 reconcile_donations.py
+python3 Data Reconciliation.py
 ```
 
 ## Inputs and output
